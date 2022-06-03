@@ -19,6 +19,7 @@
     <module>notifications-app</module>
     <module>musicApp</module>
     <module>Test_App</module>
+      <module>dock</module>
   </modules>
 
   <name>Spotify</name>
